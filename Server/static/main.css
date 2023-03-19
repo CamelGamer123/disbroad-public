@@ -1,0 +1,42 @@
+body{
+    background-color: #474646;
+}
+
+#ServerChat{
+    background-color: #232323;
+    color: white;
+    height: 350px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#UserChat{
+    background-color: #232323;
+    color: white;
+    width: 85%;
+    height: 25px;
+}
+
+#SendButton{
+    background-color: #232323;
+    color: white;
+    width: 6%;
+    height: 30px;
+    position: absolute;
+    right: 25%;
+}
+
+#UserInput{
+    margin: auto;
+    padding: 10px;
+    width: 50%;
+}
+
+#TopLogo{
+    width: 50px;
+    height: 50px;
+    margin: auto;
+    display: block;
+}

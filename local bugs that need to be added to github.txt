@@ -1,0 +1,1 @@
+1. If messages are spammed occasionally the client will display add `MESSAGE` to the end of the message. This only appears to be happening on clients that arent also the hosts. 

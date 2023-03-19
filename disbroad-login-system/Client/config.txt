@@ -1,0 +1,5 @@
+# The IP address for the server
+server_ip: 192.168.1.16
+
+# The Port for the Server
+server_port: 81

@@ -1,0 +1,8 @@
+# Set to "auto" to grab current IPV4 as servers IP address
+server_ip: auto
+
+# The port for the server (If changed from 81, let clients know)
+server_port: 81
+
+# The amount of allowed concurrent clients
+max_clients: 20

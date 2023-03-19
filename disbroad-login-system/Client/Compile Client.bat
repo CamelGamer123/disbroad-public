@@ -1,0 +1,1 @@
+python -m compileall Client.py

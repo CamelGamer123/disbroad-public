@@ -1,0 +1,6 @@
+1 – Crash
+2 – Remote shutdown
+3 – Invalid client limit
+4 – Invalid IP
+5 – Invalid port
+6 – Config File Not Found

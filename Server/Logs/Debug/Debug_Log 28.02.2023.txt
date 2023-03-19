@@ -1,0 +1,30 @@
+2023-02-28 20:09:33,197:INFO:Initializing Config object
+2023-02-28 20:09:33,197:INFO:Refreshing config data
+2023-02-28 20:09:33,204:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:09:33,226:INFO:Config data: IP: 26.214.138.228, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:09:33,227:INFO:Initializing Config object
+2023-02-28 20:09:33,227:INFO:Refreshing config data
+2023-02-28 20:09:33,227:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:09:33,228:INFO:Config data: IP: 26.214.138.228, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:09:33,229:INFO: Server has started (26.214.138.228:81)
+2023-02-28 20:21:15,554:INFO:Initializing Config object
+2023-02-28 20:21:15,555:INFO:Refreshing config data
+2023-02-28 20:21:15,555:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:21:15,562:INFO:Config data: IP: 192.168.0.223, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:21:15,563:INFO:Initializing Config object
+2023-02-28 20:21:15,563:INFO:Refreshing config data
+2023-02-28 20:21:15,563:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:21:15,563:INFO:Config data: IP: 192.168.0.223, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:21:15,563:INFO: Server has started (192.168.0.223:81)
+2023-02-28 20:21:29,524:INFO:Client (192.168.0.223:1080) has connected to the Server!
+2023-02-28 20:22:09,602:INFO:Initializing Config object
+2023-02-28 20:22:09,602:INFO:Refreshing config data
+2023-02-28 20:22:09,602:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:22:09,609:INFO:Config data: IP: 192.168.0.223, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:22:09,610:INFO:Initializing Config object
+2023-02-28 20:22:09,610:INFO:Refreshing config data
+2023-02-28 20:22:09,610:INFO:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server\Server_Data\config.json
+2023-02-28 20:22:09,610:INFO:Config data: IP: 192.168.0.223, Port: 81, Version: 0.1.3, Max Clients: 20
+2023-02-28 20:22:09,610:INFO: Server has started (192.168.0.223:81)
+2023-02-28 20:24:27,497:INFO:Client (192.168.0.223:21137) has connected to the Server!
+2023-02-28 20:24:27,499:INFO:A client has unexpectedly disconnected

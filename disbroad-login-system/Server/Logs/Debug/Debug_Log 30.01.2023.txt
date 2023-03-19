@@ -1,0 +1,62 @@
+2023-01-30 16:58:24,786:DEBUG:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server/config.txt
+2023-01-30 16:58:24,787:INFO: Server has started (192.168.1.16:81)
+2023-01-30 17:17:42,037:INFO:Client (192.168.1.16:1050) has connected to the Server!
+2023-01-30 17:17:44,756:DEBUG:Message received: Connection Check
+2023-01-30 17:17:44,756:INFO:MESSAGE | deez ran a connection check
+2023-01-30 17:17:44,756:DEBUG:Message received: Close Connection
+2023-01-30 17:17:44,756:DEBUG:Client wishes to disconnect
+2023-01-30 17:17:44,756:DEBUG:Found client in connected_clients
+2023-01-30 17:17:44,756:DEBUG:Removed Client from connected_clients
+2023-01-30 17:17:44,756:DEBUG:Told the client to close application
+2023-01-30 17:17:44,756:DEBUG:Told all other clients that Client has disconnected
+2023-01-30 18:57:04,924:DEBUG:Grabbed config data from C:\Users\kylep\Documents\GitHub\disbroad\Server/config.txt
+2023-01-30 18:57:04,925:INFO: Server has started (192.168.1.16:81)
+2023-01-30 19:05:04,424:INFO:Client (192.168.1.16:1050) has connected to the Server!
+2023-01-30 19:05:06,321:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:09,501:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:09,600:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:09,671:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:10,670:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:10,799:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:10,856:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:14,739:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:15,582:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:19,852:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:20,307:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:21,650:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:21,764:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:21,896:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:21,921:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:22,550:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:23,892:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:24,864:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:25,277:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:26,476:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:05:26,789:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:05:28,759:DEBUG:Message received: Close Connection
+2023-01-30 19:05:28,759:DEBUG:Client wishes to disconnect
+2023-01-30 19:05:28,759:DEBUG:Found client in connected_clients
+2023-01-30 19:05:28,759:DEBUG:Removed Client from connected_clients
+2023-01-30 19:05:28,760:DEBUG:Told the client to close application
+2023-01-30 19:05:28,760:DEBUG:Told all other clients that Client has disconnected
+2023-01-30 19:14:12,947:INFO:Client (192.168.1.16:18143) has connected to the Server!
+2023-01-30 19:14:15,320:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:14:16,946:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:14:18,457:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:14:51,957:DEBUG:Message received: Close Connection
+2023-01-30 19:14:51,957:DEBUG:Client wishes to disconnect
+2023-01-30 19:14:51,957:DEBUG:Found client in connected_clients
+2023-01-30 19:14:51,957:DEBUG:Removed Client from connected_clients
+2023-01-30 19:14:51,957:DEBUG:Told the client to close application
+2023-01-30 19:14:51,957:DEBUG:Told all other clients that Client has disconnected
+2023-01-30 19:20:41,430:INFO:Client (192.168.1.16:1093) has connected to the Server!
+2023-01-30 19:20:43,018:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:20:45,385:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:20:45,517:DEBUG:Message received: !?UserISnotTYPING?!
+2023-01-30 19:20:45,585:DEBUG:Message received: !?UserIStyping?!
+2023-01-30 19:20:48,707:DEBUG:Message received: Close Connection
+2023-01-30 19:20:48,707:DEBUG:Client wishes to disconnect
+2023-01-30 19:20:48,707:DEBUG:Found client in connected_clients
+2023-01-30 19:20:48,707:DEBUG:Removed Client from connected_clients
+2023-01-30 19:20:48,708:DEBUG:Told the client to close application
+2023-01-30 19:20:48,708:DEBUG:Told all other clients that Client has disconnected

@@ -1,0 +1,9 @@
+{
+    "server_ip": "auto",
+    "server_port": 81,
+    "version": "0.1.4",
+    "log_max_age": 24,
+    "contentFilterWords": [],
+    "contentFilter": false,
+    "contentFilterReplace": "*"
+}

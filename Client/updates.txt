@@ -1,0 +1,11 @@
+Updates:
+    No updates as this is a hotfix for V0.1.3
+
+Bug Fixes:
+    Fixed a bug where /users didn't work
+    Fixed a message duplication bug
+    Fixed a bug where the server would try to send multiple messages at a time, causing desync
+    Fixed a bug where integers couldn't be sent by themselves
+
+Other:
+    No other as this is a hotfix for V0.1.3

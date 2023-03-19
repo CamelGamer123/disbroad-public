@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Disbroad Web V0.0.1</title>
+    <link rel="stylesheet" href="../static/main.css">
+</head>
+<body>
+<img src="../static/icon.ico" alt="Disbroad Logo" id="TopLogo">
+<div id="MainContainer">
+    <textarea id="ServerChat" readonly></textarea>
+    <br>
+    <div id="UserInput">
+        <input type="text" id="UserChat" name="message">
+        <button type="submit" id="SendButton">Send Message</button>
+        <form method="post" action="/">
+        </form>
+    </div>
+</div>
+<script>
+    const user = document.getElementById('UserChat')
+    const server = document.getElementById('ServerChat')
+    // const current_url = window.location.href;
+    // const split = current_url.split('/');
+    // const url = split[2]
+    // const msg_server = 'ws://' + url + ':81/'
+    // server.value += 'Attempting connection to server\n'
+    // const socket = new WebSocket(msg_server);
+
+    // socket.onopen = function(event){
+    //   console.log("Connection established. "+event);
+    //   server.value += ' Successfully connected to the server \n'
+    //     socket.send(JSON.stringify({"user":"WebTest", "type":"guest"}))
+    // };
+
+    // socket.addEventListener('message',(event) => {
+    //   console.log(event.data)
+    //   server.value += event.data + "\n";
+    // });
+
+    //  socket.addEventListener('error',(event) => {
+    //      console.log(event)
+    //   server.value += 'An error occurred with the connection\n';
+    // });
+
+    // socket.addEventListener('close', (event) => {
+    //   console.log("Connection terminated. "+event);
+    // });
+
+    user.addEventListener('keydown', function (event){
+        if(event.key === "Enter"){
+            sendMessage()
+        }
+    });
+
+    function sendMessage() {
+        if(user.value === ''){
+            console.log('empty message')
+            user.placeholder = 'Message can not be empty';
+            setTimeout(function (){
+                user.placeholder = '';
+            }, 2000);
+        }else{
+            console.log(user.value)
+            if(user.value === '/users'){
+                //socket.send(JSON.stringify({"user":"WebTest", "type":"userlist", "onlinetype":"true"}))
+                user.value = "";
+                user.placeholder = 'Invalid Command';
+                setTimeout(function (){
+                    user.placeholder = '';
+                }, 2000);
+            }else {
+                //console.log('Sending to server: ' + user.value)
+                server.value += (user.value + '\n');
+                //socket.send(JSON.stringify({"user":"WebTest", "type":"message","MESSAGE":user.value}));
+                user.value = "";
+            }
+        }
+    }
+</script>
+</body>
+</html>
